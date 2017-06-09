@@ -5,7 +5,7 @@
 # - all elemental damage
 # - Healing when damage dealt 
 # - Boosts melee to 200% 
-# - mayby too strong, but i had a fun with it
+# - maybe too strong, but i had a fun with it
 
 #   check stats here:    http://i.imgur.com/BNLhivF.jpg
 
