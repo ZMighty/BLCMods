@@ -5,7 +5,7 @@
 #hight relod speed
 
 # nothing special, just another SG
-# check stats here: http://i.imgur.com/iCD11WM.jpg
+# check stats here: http://i.imgur.com/QzwUJRy.jpg
 
 ##Replaces the ConferenceCall.
 
